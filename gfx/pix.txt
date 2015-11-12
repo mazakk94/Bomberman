@@ -1,0 +1,12 @@
+Lets bomb
+szer 625-972
+wys 77-134
+mute
+szer 24-116
+wys 690-725
+credits
+wys 616-674
+szer 114-367
+exit
+wys 691-747
+szer 846-979
